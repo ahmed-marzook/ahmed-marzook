@@ -3,6 +3,7 @@
 I’m a software developer, professionally debugging code and personally debugging imposter syndrome—both of which crash at the worst times!
 
 ## 🔭 I’m currently working on ...
+Yeah, I know I’m juggling multiple things at once. Don’t pretend you’re not doing the same!
 - [A Habit Share Web App built using Java Backend and a no JS framework frontend](https://github.com/ahmed-marzook/Tatweer) - WIP
 - [A Locally run Mock web Server with a UI]() - Not Started considering using Kotlin
 - [A Car dealership management Site]() - Not Started considering using Node.js with the ELK stack
