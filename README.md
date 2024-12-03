@@ -4,9 +4,9 @@ I’m a software developer, professionally debugging code and personally debuggi
 
 ## 🔭 I’m currently working on ...
 Yeah, I know I’m juggling multiple things at once. Don’t pretend you’re not doing the same!
-- [To Do list App](https://github.com/ahmed-marzook/Day-Mapper)
 - [Weather App](https://github.com/ahmed-marzook/Weather-Bridge)
 - [Blog Site](https://github.com/ahmed-marzook/Tech-Tales-Java)
+- [Habit App](https://github.com/ahmed-marzook/Habit-Pact)
 
 ## 🌱 I’m currently learning
 My mind is always curious and I want to know all the things
