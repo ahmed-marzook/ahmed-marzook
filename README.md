@@ -6,7 +6,6 @@ I’m a software developer, professionally debugging code and personally debuggi
 Yeah, I know I’m juggling multiple things at once. Don’t pretend you’re not doing the same!
 - [Phoenix-Commerce](https://github.com/ahmed-marzook/Phoenix-Commerce)
 - [Habit App](https://github.com/ahmed-marzook/Habit-Pact)
-- [Blog Site](https://github.com/ahmed-marzook/Tech-Tales-Java)
 
 ## 🌱 I’m currently learning
 My mind is always curious and I want to know all the things
