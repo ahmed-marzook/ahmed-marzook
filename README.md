@@ -4,19 +4,15 @@ I’m a software developer, professionally debugging code and personally debuggi
 
 ## 🔭 I’m currently working on ...
 Yeah, I know I’m juggling multiple things at once. Don’t pretend you’re not doing the same!
-- [Phoenix-Commerce](https://github.com/ahmed-marzook/Phoenix-Commerce)
+- [Social media App](https://github.com/ahmed-marzook?tab=repositories)
 - [Habit App](https://github.com/ahmed-marzook/Habit-Pact)
 
 ## 🌱 I’m currently learning
 My mind is always curious and I want to know all the things
 - Java
-- Micro-Services
-- Kafka
-- Protobuf
-- JavaScript
-- HTML
-- CSS
 - React Framework
+- Go Langauge
+- React Native
 <!--
 **ahmed-marzook/ahmed-marzook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
