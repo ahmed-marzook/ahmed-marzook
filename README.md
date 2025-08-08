@@ -5,7 +5,7 @@ I’m a software developer, professionally debugging code and personally debuggi
 ## 🔭 I’m currently working on ...
 Yeah, I know I’m juggling multiple things at once. Don’t pretend you’re not doing the same!
 - [Social media App](https://github.com/ahmed-marzook?tab=repositories)
-- [Birth Your Way _ Birth Plan Generator](https://www.birthplan.co.uk/)
+- [Birth Your Way - Birth Plan Generator](https://www.birthplan.co.uk/)
 
 ## 🌱 I’m currently learning
 My mind is always curious and I want to know all the things
