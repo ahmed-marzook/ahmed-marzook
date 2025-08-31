@@ -1,3 +1,5 @@
+![Ahmed Marzook GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-marzook&show_icons=true&theme=radical)
+
 # Hi there 👋
 
 I’m a software developer, professionally debugging code and personally debugging imposter syndrome—both of which crash at the worst times!
