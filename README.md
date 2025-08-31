@@ -1,4 +1,4 @@
-![Ahmed Marzook GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-marzook&show_icons=true&theme=radical)
+![Ahmed Marzook GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-marzook&show_icons=true&theme=radical&hide_rank=true)
 
 # Hi there 👋
 
